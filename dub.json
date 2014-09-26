@@ -1,0 +1,10 @@
+{
+	"name": "blockinfo.suwoncoin.org",
+	"description": "A suwoncoin blockinfo server application.",
+	"copyright": "Copyright © 2014, actus coop",
+	"authors": ["yezune, choi"],
+	"dependencies": {
+		"vibe-d": ">=0.7.17"
+	},
+	"versions": ["VibeDefaultMain"]
+}
