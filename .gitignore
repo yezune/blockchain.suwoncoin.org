@@ -1,7 +1,10 @@
 .dub
 docs.json
+dub.selections.json
 __dummy.html
 *.o
 *.obj
 blockchain.suwoncoin.org
-
+blockchain.sublime-project
+blockchain.sublime-workspace
+	
